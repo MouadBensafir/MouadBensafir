@@ -1,38 +1,44 @@
-# Hi there, I'm Mouad Bensafir 👋
-
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouad.bensafir@um6p.ma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-bensafir)
-[![My Website](https://img.shields.io/badge/My_Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_LINK)
+# 🛠️ System Architect: Mouad Bensafir
+`Where the interface ends, my work begins.`
 
-<br />
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,vue,vercel,linux,mysql,arduino&theme=dark" />
-</p>
+### 📡 Ping Me
+*Click a button to initiate a connection*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+[![Email](https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouad.bensafir@um6p.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-bensafir)
+
+<br/>
+
+### 💻 The Tech Stack
+*Current environment variables & dependencies*
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,vue,linux,arduino,mysql,git,bash,html,css&perline=6" />
+
+<br/>
+
+---
+
+### 🤖 Current Task Progress
+| Task | Status | Progress |
+| :--- | :--- | :--- |
+| **Mobile Robot Control** | `Synthesizing` | ████████░░ 80% |
+| **Developer Tools** | `Optimizing` | ██████████ 100% |
+| **Coffee Consumption** | `In Progress` | ████░░░░░░ 40% |
 
 </div>
 
 ---
 
-### 🚀 About Me
-> **"Where the interface ends, my work begins."**
+### 📝 A bit more about the process:
+* **The Specialty:** I build correct-by-construction synthesis pipelines. Essentially, I use LLMs to tell robots how to behave without them breaking things.
+* **The Tools:** If it involves high-performance file indexing (JavaFX) or secure data management (Vue + Firebase), I've likely built a version of it.
+* **The Vibe:** I prefer the terminal over the GUI and logic over "just making it work."
 
-I am a Software Engineer based in Morocco, specializing in bridging high-level control systems with robust software architecture. 
-
-* 🔭 **Currently working on:** Symbolic Control pipelines for mobile robots using LLMs and PyBullet.
-* 🛠️ **Building:** High-performance search utilities and developer platforms.
-* 🌱 **Learning:** Advanced formal methods and autonomous system synthesis.
-
----
-
-### 📊 Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadBensafir&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouadBensafir&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
