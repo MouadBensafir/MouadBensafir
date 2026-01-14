@@ -5,7 +5,7 @@
 ### ✨ About Me
 I’m a *Computer Science Engineering Student @ UM6P - College of Computing* and builder at heart! \\('O')/
 
-For me, I see tech as sandbox, not just a field. In fact, you can find all kinds of projects in this account: programs for general audiences and developers, with more to come! 
+Tech as sandbox, not just a field. That is why you can find all kinds of projects in this account: programs for general audiences and developers, with more to come! 
 
 I'm learning every day and this is a trace of my own evolution. I believe in **learning by doing**, and every repository here is a step toward mastering AI and Data Science. 
 
