@@ -1,12 +1,20 @@
 <div align="center">
 
-# 🛠️ System Architect: Mouad Bensafir
-`Where the interface ends, my work begins.`
+# 🛠️ Meet Me !
+
+I'm a computer science engineering student at UM6P - College of Computing. I’m a builder at heart. For me, tech is a sandbox, not just a field. In fact, you can find all kinds of projects in this account; programms for general audiences, developpers, and more to come! I'm learning everyday and this is a trace of my own evolution. I believe in **learning by doing**, and every repository here is a step toward mastering AI and Data Science.
 
 ---
 
-### 📡 Ping Me
-*Click a button to initiate a connection*
+### 💻 Tech Stack so Far
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,vue,golang,linux,mysql,git,bash,html,css&perline=6" />
+
+<br/>
+
+---
+
+### 📡 You can also find me on ...
 
 [![Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
 [![Email](https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouad.bensafir@um6p.ma)
@@ -14,31 +22,4 @@
 
 <br/>
 
-### 💻 The Tech Stack
-*Current environment variables & dependencies*
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,vue,linux,arduino,mysql,git,bash,html,css&perline=6" />
-
-<br/>
-
----
-
-### 🤖 Current Task Progress
-| Task | Status | Progress |
-| :--- | :--- | :--- |
-| **Mobile Robot Control** | `Synthesizing` | ████████░░ 80% |
-| **Developer Tools** | `Optimizing` | ██████████ 100% |
-| **Coffee Consumption** | `In Progress` | ████░░░░░░ 40% |
-
-</div>
-
----
-
-### 📝 A bit more about the process:
-* **The Specialty:** I build correct-by-construction synthesis pipelines. Essentially, I use LLMs to tell robots how to behave without them breaking things.
-* **The Tools:** If it involves high-performance file indexing (JavaFX) or secure data management (Vue + Firebase), I've likely built a version of it.
-* **The Vibe:** I prefer the terminal over the GUI and logic over "just making it work."
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadBensafir&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
