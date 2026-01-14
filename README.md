@@ -1,9 +1,14 @@
 <div align="center">
 
-## Hi! This is Mouad Bensafir speaking !
+# 👋 Hi! This is Mouad Bensafir speaking!
 `Computer Science Student @ UM6P - College of Computing`
 
-I’m a builder at heart. For me, tech is a sandbox, not just a field. In fact, you can find all kinds of projects in this account; programms for general audiences, developpers, and more to come! I'm learning everyday and this is a trace of my own evolution. I believe in **learning by doing**, and every repository here is a step toward mastering AI and Data Science.
+---
+
+### ✨ About Me
+"I’m a builder at heart. For me, tech is a sandbox, not just a field. In fact, you can find all kinds of projects in this account: programs for general audiences and developers, with more to come! I'm learning every day and this is a trace of my own evolution. I believe in **learning by doing**, and every repository here is a step toward mastering AI and Data Science."
+
+`\('O')/ Collecting errors until they become expertise! `
 
 ---
 
